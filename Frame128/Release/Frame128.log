@@ -1,0 +1,60 @@
+﻿  Coin.cpp
+  Diamond.cpp
+  Flower.cpp
+  Garden.cpp
+  Heart.cpp
+  Dice.cpp
+  DiceKing.cpp
+  BmpMgr.cpp
+  Bullet.cpp
+  Carrot.cpp
+Carrot.cpp(71): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CarrotBeam.cpp
+  CarrotBullet.cpp
+  Charactor.cpp
+Charactor.cpp(17): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  CollisionMgr.cpp
+  Farm.cpp
+  Flag.cpp
+  DiceRoom.cpp
+  Frame128.cpp
+  GuideBullet.cpp
+GuideBullet.cpp(24): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyMgr.cpp
+  컴파일하고 있습니다...
+  Line.cpp
+  LineMgr.cpp
+  Logo.cpp
+  MainGame.cpp
+  Mbullet.cpp
+  Mushroom.cpp
+  OBullet.cpp
+  Onion.cpp
+Onion.cpp(84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Potato.cpp
+  MyBmp.cpp
+  MyButton.cpp
+  MyMenu.cpp
+  Obj.cpp
+  ObjMgr.cpp
+  Player.cpp
+  Ready.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+ScrollMgr.cpp(34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+ScrollMgr.cpp(35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SPlayer.cpp
+  컴파일하고 있습니다...
+  Stage.cpp
+  Tutorial.cpp
+  Victory.cpp
+  Wall.cpp
+Wall.cpp(27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  62 of 872 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    52 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Frame128.vcxproj -> C:\Users\LG\Documents\프레임\Release\Frame128.exe
+  Frame128.vcxproj -> C:\Users\LG\Documents\프레임\Release\Frame128.pdb (Full PDB)

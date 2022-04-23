@@ -1,0 +1,134 @@
+﻿  stdafx.cpp
+  Wall.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Vines.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Victory.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Venes.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Tutorial.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Stage.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  SPlayer.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  SoundMgr.cpp
+c:\users\lg\documents\프레임\frame128\soundmgr.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Enum.h': No such file or directory
+  Short.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Seed.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  ScrollMgr.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  SceneMgr.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Scene.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Ready.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Player.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  ObjMgr.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Obj.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  MyMenu.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  MyButton.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  MyBmp.cpp
+c:\users\lg\documents\프레임\frame128\mybmp.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Potato.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  PlayerHit.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Overwalk.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Onion.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  OBullet.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Mushroom.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  MonsterHit.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Mbullet.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  MainGame.cpp
+c:\users\lg\documents\프레임\frame128\maingame.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Long.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Logo.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  LineMgr.cpp
+c:\users\lg\documents\프레임\frame128\line.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Line.cpp
+c:\users\lg\documents\프레임\frame128\line.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  KeyMgr.cpp
+c:\users\lg\documents\프레임\frame128\keymgr.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  JumpEffect.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  GuideBullet.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Frame128.cpp
+c:\users\lg\documents\프레임\frame128\maingame.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  DiceRoom.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Flag.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Farm.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CollisionMgr.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Charactor.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  CarrotBullet.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  CarrotBeam.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Carrot.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Bullet.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  BmpMgr.cpp
+c:\users\lg\documents\프레임\frame128\mybmp.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  DiceKing.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Dice.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Heart.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Garden.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  FlowerBullet.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Flower.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  FaceAttack.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  EndingPage.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Ending.cpp
+c:\users\lg\documents\프레임\frame128\scene.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Diamond.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Coin.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  BulletEffect.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  BonBullet.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  BonBon.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  BlueSeed.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  Acorn.cpp
+c:\users\lg\documents\프레임\frame128\obj.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Include.h': No such file or directory
+  코드를 생성하고 있습니다...

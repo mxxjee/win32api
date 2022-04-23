@@ -1,0 +1,96 @@
+#pragma once
+
+#include "Include.h"
+#include "Scene.h"
+
+class CObj
+{
+public:
+	CObj();
+	virtual ~CObj();
+
+public:
+	const INFO&		Get_Info(void) const	{ return m_tInfo; }
+	const RECT&		Get_Rect()const			{ return m_tRect; }
+	const RECT&     Get_ImageRect() const { return m_tImageRect; }
+	void			Set_Dead()				{ m_bDead = true; }
+	bool			Get_Dead() { return m_bDead; }
+	const RENDERID&	Get_RenderID() { return m_eRender; }
+
+
+
+	void			Set_Pos(float fX, float fY)
+	{
+		m_tInfo.fX = fX;
+		m_tInfo.fY = fY;
+	}
+
+	void	Set_Size(float _fCX, float _fCY)
+	{
+		m_tInfo.fCX = _fCX;
+		m_tInfo.fCY = _fCY;
+	}
+
+
+	void			Set_X(float fX) { m_tInfo.fX += fX; }
+	void			Set_Y(float fY) { m_tInfo.fY += fY; }
+
+	void			Set_Angle(float _fAngle) { m_fAngle = _fAngle; }
+
+	void			Set_Dir(DIRECTION eDir) { m_eDir = eDir; }
+
+	void			Set_Target(CObj* _pTarget) { m_pTarget = _pTarget; }
+
+	void			Set_FrameKey(TCHAR* _pFrameKey) { m_pFrameKey = _pFrameKey; }
+	void			Set_eRender(RENDERID	m_ID) { m_eRender = m_ID; }
+
+	void			Set_Hp(int _iAttack) { iHp = iHp -_iAttack; }
+	int			Get_iAttck() { return iAttack; }
+	int			Get_Hp() { return iHp; }
+	int			Get_FrameStart() { return m_tFrame.iFrameStart; }
+	int			Get_FrameEND() { return m_tFrame.iFrameEnd; }
+	
+
+public:
+	virtual void		Initialize(void)PURE;
+	virtual int			Update(void)	PURE;
+	virtual void		Late_Update(void) PURE;
+	virtual void		Render(HDC hDC)	PURE;
+	virtual void		Release(void)	PURE;
+
+	//void				Set_FrameKey(TCHAR*	_pFrameKey) { m_pFrameKey = _pFrameKey; }
+	
+
+protected:
+	void		Update_Rect(void);
+	void		Update_Rect_Image(void);
+	void		Move_Frame(void);
+
+protected:
+	OBJID		eID;
+	INFO		m_tInfo;
+	INFO		m_tImageInfo;
+
+	RECT		m_tRect;
+	RECT		m_tImageRect;
+	FRAME		m_tFrame;
+
+	DIRECTION	m_eDir;
+	CObj*		m_pTarget;
+
+	bool	m_bDead;
+	float	m_fSpeed;
+	float   m_fAngle;
+	float	m_fDiagonal;
+
+	RENDERID	m_eRender;
+
+	int			iAttack;
+	int			iHp;
+
+
+
+	TCHAR*	m_pFrameKey;
+
+};
+
